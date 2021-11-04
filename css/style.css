@@ -20,8 +20,6 @@ body {
 	height: 155px;
 	background: url(../imagens/detalhe-topo.png) no-repeat right top;
 	padding-top: 25px;
-
-	border: 1px solid red;
 }
 
 .logo {
@@ -34,6 +32,16 @@ body {
 
 /*************************************************************************************************
  ************ BARRA DE NAVEGAÇAO ********************************/
+a:link, a:visited {
+	color: #b10333;
+	padding: 2px;
+}
+
+a:hover {
+	color: #e50040;
+}
+
+
  ul {/*removendo as formatações padrões*/
  	margin: 0;
  	padding: 0;
@@ -147,7 +155,6 @@ body.fotos #navegacao a#fotos {
 	width: 270px;
 	float: left;
 	margin: 0 0 20px 15px;
-	background: green;
 }
 
 /****************************************
@@ -211,6 +218,70 @@ input.submit {
 	background-color: #b10333;
 	border: 2px solid #870529;
 }
+
+
+/**********************************************
+***** Formatando imagens *********************************/
+
+img.imagem-principal {/*usamos seletores padrões apenas para formatação padrão E quando queremos fazer um diferencial usamos classes*/
+	width: 98%;
+	border: 3px solid #dfdfdf;
+}
+
+/**********************************************
+***** Formatando cabeçalhos *********************************/
+
+h3 {
+	text-transform: uppercase;
+	display: inline;
+	font-size: 0.8em;
+	padding: 3px;
+}
+
+.destaque h3 {
+	background: #b10333;
+	color: #fff;
+}
+
+
+.entrevista h3 {
+	background: #de003e;	
+}
+/**********************************************
+***** Formatando lista de noticias *********************************/
+
+#lista-noticias li {
+	padding: 2px;
+	border-bottom: 1px solid #ccc;
+	height: 62px;
+
+}
+
+#lista-noticias li a img {/*formatando imagem dentro de um link, dentro de li, dentro de lista-noticias*/
+	float: left;
+	margin: 5px;
+}
+
+#lista-noticias li a  {
+	text-decoration: none;
+}
+
+#lista-noticias li a h3 {
+	font-size: 0.8em;
+	padding: 0;
+	color: #3e7ab9;
+}
+
+#lista-noticias li a p {
+	font-size: 0.7em;
+	color: #000;
+}
+
+#lista-noticias li:hover {
+	background: #eee;
+	cursor: pointer;
+}
+
 
 
 /**********************************************
