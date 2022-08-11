@@ -1,12 +1,14 @@
-### Olá, meu nome é Cícero!👋
+### Olá, meu nome é Cícero! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
 ### Sou estudante de Análise e Desenvolvimento de Sistemas 🖥️
  - ### Atualmente estudo desenvolvimento web com Angular e Spring.
  
 <div>
   <a href="https://github.com/ccrismota">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccrismota&show_icons=true&theme=highcontrast" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrismota&layout=compact&langs_count=7&theme=highcontrast" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccrismota&show_icons=true&line_height=27&count_private=true&title_color=fcae11&text_color=c9cacc&icon_color=fcae11&bg_color=0D1117"/>
+  <a href="https://github.com/ccrismota">  
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrismota&&layout=compact&langs_count=7,html,tex&title_color=fcae11&text_color=c9cacc&icon_color=fcae11&bg_color=0D1117"/>
 </div>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Drake-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Drake-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
