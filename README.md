@@ -6,7 +6,7 @@
   <a href="https://github.com/ccrismota">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ccrismota&show_icons=true&line_height=27&count_private=true&title_color=fcae11&text_color=c9cacc&icon_color=fcae11&bg_color=0D1117"/>
   <a href="https://github.com/ccrismota">  
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrismota&&layout=compact&langs_count=10,html,tex&title_color=fcae11&text_color=c9cacc&icon_color=fcae11&bg_color=0D1117"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ccrismota&&layout=compact&langs_count=7,html,tex&title_color=fcae11&text_color=c9cacc&icon_color=fcae11&bg_color=0D1117"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -26,7 +26,7 @@
   ##
  
 <div> 
-  <a href="https://www.linkedin.com/in/crismota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/ccrismota/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    <a href = "mailto:ccrismota@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   
   
